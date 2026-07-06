@@ -3,7 +3,7 @@
 ## Links
 
 - [GitHub](https://github.com/sacred-g/my-room-in-3d)
-- [Live](https://my-room-in-3d.vercel.app)
+- [Live](https://my-room-in-3d-m9y8kpsn2-sacredgs-projects.vercel.app)
 
 ## Setup
 
